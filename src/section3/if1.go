@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func if1() {
 	// if문은 무조건 boolean으로 검사
 	// 소괄호를 사용하지 않는다
 
