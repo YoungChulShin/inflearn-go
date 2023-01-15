@@ -7,5 +7,6 @@ func main() {
 	// switch2()
 	// for1()
 	// for2()
-	for3()
+	// for3()
+	feature1()
 }
